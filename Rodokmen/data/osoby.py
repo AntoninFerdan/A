@@ -18,11 +18,19 @@
 # Neznámý otec nemanželského dítěte: dict(n="otec neuveden", st="unk", f=[], note="…")
 
 P = {
+ 1: dict(n="Antonín Ferdan", y="* 1987", st="fam", sex="M", f=["* 1987 Třebíč"], note="Žijící – údaje jen základní."),
+ 2: dict(n="Antonín Ferdan", y="* 1963", st="fam", f=[], note="Žijící – údaje jen základní."),
+ 3: dict(n="Jana Řihačková (?)", y="* 1954", st="fam", f=[], note="Žijící – údaje jen základní. Pravopis rodného příjmení ověřit (Řihačková / Říhačková)."),
+ 4: dict(n="Antonín Ferdan", y="", st="fam", f=[], note="Dědeček (otec otce) – podle vnuka."),
+ 5: dict(n="Marie", y="", st="fam", f=[], note="Babička (matka otce), provdaná Ferdanová; rodné příjmení zatím neznámé."),
+ 8: dict(n="Antonín Ferdan", y="", st="fam", f=[], note="Pradědeček – podle pravnuka."),
+ 9: dict(n="Marie Kreuterová", y="* 1910", st="fam", f=["* 1910"], note="Prababička, provdaná Ferdanová – podle pravnuka."),
 }
 
 # Rody = osm větví podle pradědečků a prababiček (čísla 8–15). Doplňte, jakmile je znáte:
 # 8: ("Novákové", "Jedna věta, kdo to byli a odkud – ukáže se na webu u rodu."),
 LINES = {
+ 8: ("Ferdanové", "Rod po meči – výchozí rod rodokmenu."),
 }
 
 # Příbuzní mimo přímou linii (sourozenci, strýcové…): k = číslo předka, ke kterému patří.
