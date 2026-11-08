@@ -1,1 +1,32 @@
-[]
+[
+ {
+  "klic": "pec_umrti_barbora_dubova_1898",
+  "svazek": "pf_trhanov-24",
+  "snimek": 15,
+  "druh": "Z",
+  "datum": "17. 6. 1898",
+  "nazev": "Úmrtí Barbory Dubové roz. Schrödlové",
+  "shrnuti": "Barbora Dubová, vdova po Janu Dubovi, domkáři v Peci čp. 7, rozená Schrödlová z Pece čp. 43, zemřela 17. 6. 1898 v 68 letech, pohřbena v Trhanově 19. 6.",
+  "odkaz": "https://www.portafontium.eu/iipimage/30073991/trhanov-24_0150-z"
+ },
+ {
+  "klic": "pec_krest_karel_duba_1876",
+  "svazek": "pf_trhanov-15",
+  "snimek": 90,
+  "druh": "N",
+  "datum": "18. 6. 1876",
+  "nazev": "Křest Karla Duby",
+  "shrnuti": "Karel, syn Jana Duby, domkáře v Peci čp. 7 (nemanželského syna Markéty Dubové z Těšovic čp. 19), a Barbory roz. Schrödlové z Pece čp. 43. Na okraji: oddán 8. 5. 1900 ve Kdousově s Josefou Kozderovou.",
+  "odkaz": "https://www.portafontium.eu/iipimage/30069724/trhanov-15_0890-n"
+ },
+ {
+  "klic": "pec_snatek_johann_duba_barbora_schrodl_1859",
+  "svazek": "pf_trhanov-18",
+  "snimek": 30,
+  "druh": "O",
+  "datum": "18. 1. 1859",
+  "nazev": "Sňatek Jana Duby a Barbory Schrödlové",
+  "shrnuti": "Ženich Johann (Jan) Duba, 27 let, podruh v Peci čp. 7, nemanželský syn Markéty Dubové, dcery Matyáše Duby, obecního kováře v Těšovicích čp. 19. Nevěsta Barbora Schrödlová, 29 let, z Pece čp. 6, dcera Johanna Schrödla, skláře v Peci, a Markéty roz. Eberhardové z Pece čp. 19.",
+  "odkaz": "https://www.portafontium.eu/iipimage/30069727/trhanov-18_0300-o"
+ }
+]

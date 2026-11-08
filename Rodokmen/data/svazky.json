@@ -1,1 +1,26 @@
-{}
+{
+ "pf_trhanov-24": {
+  "archiv": "SOA Plzeň – Sbírka matrik západních Čech",
+  "portal": "Porta fontium",
+  "svazek": "Trhanov 24, Matrika zemřelých",
+  "popis": "Pec (Hochofen) [okres Domažlice]; Kniha zemřelých pro obec Pec. Č. III. 1892-1945",
+  "snimku": 75,
+  "url": "https://www.portafontium.eu/register/soap-pn/trhanov-24"
+ },
+ "pf_trhanov-15": {
+  "archiv": "SOA Plzeň – Sbírka matrik západních Čech",
+  "portal": "Porta fontium",
+  "svazek": "Trhanov 15, Matrika narozených",
+  "popis": "Pec (Hochofen)",
+  "snimku": 183,
+  "url": "https://www.portafontium.eu/register/soap-pn/trhanov-15"
+ },
+ "pf_trhanov-18": {
+  "archiv": "SOA Plzeň – Sbírka matrik západních Čech",
+  "portal": "Porta fontium",
+  "svazek": "Trhanov 18, Matrika oddaných Matrika zemřelých",
+  "popis": "Pec (Hochofen)",
+  "snimku": 140,
+  "url": "https://www.portafontium.eu/register/soap-pn/trhanov-18"
+ }
+}

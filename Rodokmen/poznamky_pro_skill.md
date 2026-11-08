@@ -13,3 +13,16 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
   (`/iip-srv/iipsrv.fcgi/<expirace>/<podpis>?Deepzoom=…jp2.dzi`, podpis platí pro jeden snímek).
 - V cloudovém kontejneru za proxy vrací obrázkový server HTTP 426 i headless Chromiu → snímky z MZA tam načíst nejde.
   Obejití se nesnažit; řešení: uživatel pošle snímek obrazovky, nebo práce na vlastním počítači.
+
+## MZA Acta Publica na vlastním počítači (Windows, vestavěný prohlížeč Claude desktop)
+- I lokálně: stránka i ALTCHA projdou, ale obrázkový server (`/iip-srv/iipsrv.fcgi/…`) vrací ve vestavěném prohlížeči
+  HTTP 403 („Unable to open … HTTP 403 attempting to load TileSource“). Stažení podepsané adresy mimo prohlížeč
+  vyhodnotí bezpečnostní kontrola Claude Code jako obcházení ochrany proti robotům → nedělat. Zbývá Claude in Chrome
+  (běžný Chrome uživatele) nebo snímek obrazovky od uživatele. Do `reference/portaly.md` (MZA) by se hodila tato informace.
+
+## Porta fontium z Windows (Python 3.14)
+- První volání `portafontium.py` spadlo na `CERTIFICATE_VERIFY_FAILED: unable to get issuer certificate`: Windows ještě
+  neměl v úložišti kořenový certifikát HARICA (stahuje si kořeny až při prvním použití). Pomohlo jedno `curl` na
+  https://www.portafontium.eu (schannel kořen doplní), pak už Python prošel. Nástroj by mohl při chybě tohle poradit.
+- Obec → fara: Pec pod Čerchovem (Hochofen) je po 1787 fara **Trhanov** (do 1789 Klenčí). Hledání
+  `searching/register?search_api_views_fulltext_1=Hochofen` (německý název) faru našlo, český název ne.

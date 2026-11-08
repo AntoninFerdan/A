@@ -35,8 +35,15 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 
 ## Rozpracováno (aktualizovat průběžně)
 - Přímá linie převzata z MyHeritage GEDCOM (97 osob, `dokumenty/strom.ged` – soubor není v gitu, uživatel ho vloží znovu).
-- Práce se přesouvá na počítač uživatele (v cloudu MZA Acta Publica nevydá snímky – HTTP 426).
-- DALŠÍ KROK: Ferdanové v Domamili, MZA Acta Publica. Sňatek Augustin Ferdan × Marianna Kočí 22. 11. 1898:
+- Práce běží na počítači uživatele (Windows, `X:\Knihy\rodokmen\A\Rodokmen`; Python 3.14 jako `python -I -X utf8`,
+  ImageMagick 7 nainstalován 8. 11. 2026). MZA: ve vestavěném prohlížeči Claude obrázkový server vrací 403
+  (ani lokálně to nejde) – snímky z MZA jen přes Claude in Chrome (uživatel připojí rozšíření) nebo snímek obrazovky od uživatele.
+- HOTOVO 8. 11. 2026: Dubové z Pece (fara Trhanov, Porta fontium): křest Karla 1876, sňatek Jana Duby × Barbory Schrödlové 1859,
+  úmrtí Barbory 1898. Jan Duba byl nemanželský syn Markéty Dubové z Těšovic čp. 19.
+- DALŠÍ (Dubové): sňatek Karel Duba × Josefa Kozderová 8. 5. 1900 Kdousov (MZA – fara Kdousov/Police?); křest Barbory
+  Schrödlové 3. 12. 1830 Pec (Trhanov 03, N Pec 1811–1857); sňatek Jan Schrödl × Markéta Eberhartová 8. 5. 1827 (Trhanov 18);
+  Těšovice čp. 19 – Markéta Dubová (* 1812) a kovář Matyáš/Jan Duba (fara Těšovic – zjistit, nejspíš Kdyně/Klatovsko).
+- DALŠÍ KROK (Ferdanové, až půjde MZA): Ferdanové v Domamili, MZA Acta Publica. Sňatek Augustin Ferdan × Marianna Kočí 22. 11. 1898:
   kniha O 1842–1912, https://www.mza.cz/actapublica/matrika/detail/592 (oddíl Domamil = snímky 2–50; 1898 asi kolem sn. 40–45).
   Ostatní knihy Domamile: hledani_obec?search_by_obec=Domamil (N 1842–1902 = detail/6292, Z 1842–1912 = detail/593).
 - Pak: ověřit sporný sňatek Martina Ferdana (strom: 1898) a jeho křest 11. 11. 1848 Domamil čp. 41 (otec?).

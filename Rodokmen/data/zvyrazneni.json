@@ -1,1 +1,38 @@
-{}
+{
+ "pec_umrti_barbora_dubova_1898": {
+  "boxes": [
+   [
+    0.01,
+    0.905,
+    0.99,
+    0.995
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "pec_krest_karel_duba_1876": {
+  "boxes": [
+   [
+    0.02,
+    0.55,
+    0.98,
+    0.985
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "pec_snatek_johann_duba_barbora_schrodl_1859": {
+  "boxes": [
+   [
+    0.01,
+    0.64,
+    0.99,
+    0.99
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ }
+}
