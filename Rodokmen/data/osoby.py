@@ -155,11 +155,13 @@ ISSUES = [
 HYPOTEZY = [
  dict(rod=8, nadpis="Hypotéza: Šimon Ferdan pochází z budečských Ferdanů",
       text="Šimon Ferdan (asi 1771–1839), krejčí a později tesař, se v r. 1793 oženil v Domamili a v r. 1799 žil v Rabštejně u Budče mezi dalšími Ferdany (Johann v čp. 17, kmotr Franz s Kateřinou). Ve faře Budeč žijí Ferdanové od konce 17. století. Jeho křest se ale zatím nenašel v Budči (1742–84), Domamili (1764–78), Jemnici ani Kdousově (1771–73). Věk v matrikách bývá nepřesný, proto hledáme spíš rodiče podle bydliště: kdo z Ferdanů žil v Rabštejně a v Domamili čp. 34, kdo tam zemřel a kdo šel za kmotra Šimonovým dětem.",
-      polozky=[("Matěj Ferdan × Veronika, později Justina", "sňatek Budeč 1760; rychtář v Knínicích 1766–74 – nejpravděpodobnější otec (děti 1761–75)"),
-               ("Vavřinec Ferdan × Marianna Kyprová(?)", "SYN ŠEBESTIÁNA, sňatek Budeč 18. 11. 1770 (půl roku před Šimonovým narozením); řezník v Knínicích, děti Jan 1771, Vavřinec 1772, Jan 1774, Tomáš 1775, Jan 1777 – Šimon mezi nimi zatím není; NEJSILNĚJŠÍ KANDIDÁT NA OTCE"),
-               ("Šebestián Ferdan × Barbora (Nová?)", "sňatek Budeč 1740; sedlák v Radkovicích čp. 5; děti Marie Anna 1748, Matěj 1750, Anna 1752, Antonín František 1754, František Cyril 1756, Anna Marie 1759(?) – NEJPRAVDĚPODOBNĚJŠÍ DĚD Šimona"),
-               ("František (Franz) Ferdan × Kateřina Virglová/Voglová", "* 31. 1. 1756 Radkovice, syn Šebestiána; sňatek 1777; kmotr Šimonova syna 1799 – Šimonův strýc (Šimon * ≈1771 nemůže být jeho syn)"),
-               ("Matěj Ferdan (* 1750) a Antonín František (* 1754)", "synové Šebestiána – v Budči se 1769–1782 neženili (zemřeli mladí nebo se ženili jinde)"),
+      polozky=[("Šebestián Ferdan × Barbora (Nová?) – děd s pravděpodobností asi 75 %", "sňatek Budeč 1740; sedlák v Radkovicích čp. 5, † 1796; děti Marie Anna 1748, Matěj 1750, Anna 1752, Antonín František 1754, František Cyril 1756, Anna Marie 1759(?), Vavřinec (* ≈1745)"),
+               ("Otec: Antonín (* 1754) – asi 30 %", "v Budči se neženil, nemá děti ani úmrtí; Šimonův prvorozený syn se jmenuje Antonín"),
+               ("Otec: Matěj (* 1750) – asi 25 %", "v Budči se neženil, nemá děti ani úmrtí (Matěj † 1778 v Radkovicích je jiný, 47 let)"),
+               ("Otec: Vavřinec (× 18. 11. 1770) – asi 10 %", "řezník v Knínicích, děti Jan 1771, Vavřinec 1772, Jan 1774, Tomáš 1775, Jan 1777 – Šimon mezi nimi není"),
+               ("Nemanželsky po dceři Šebestiána – asi 10 %", "Marie Anna (1748) nebo Anna (1752, × 1772 František Cziharz)"),
+               ("Jiná větev Ferdanů nebo jiná rodina – asi 25 %", "Matěj rychtář × Justina (Knínice), Matěj st. (Radkovice čp. 15, † 1778)"),
+               ("Hlavní argument", "Franz (František) Ferdan „z Radkovic“, syn Šebestiána, byl kmotrem OBOU Šimonových dětí narozených v Rabštejně (Marianna 1796, Antonín 1799) – nejspíš Šimonův strýc"),
                ("Fedrové (Jemnice, Budeč čp. 14, Rabštejn čp. 18)", "JINÁ rodina – nezaměňovat (oprava 8. 11. 2026)")],
       zaznamy=["domamil_snatek_simon_ferdan_marie_anna_woborilova_1793", "budec_krest_antonin_ferdan_1799"]),
 ]

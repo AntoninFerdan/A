@@ -52,6 +52,16 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   a případně původ; Antonínův úmrtní zápis 1832 tamtéž; Antonínův křest 1799 – [VYŘEŠENO: Rabštejn, deník 42] (zjistit faru) nebo Borová; úmrtí Antonína 1832 (Z 6296).
 - HOTOVO 8. 11. 2026: křest Antonína 14. 1. 1799 – fara Budeč (SOA Třeboň, kniha 3, id 2480, sn. 23), Rabštejn u Budče čp. 1,
   rodiče Šimon Ferdan × Marianna Wobořilová. Ferdanové jsou rod z fary Budeč (Knínice, Radkovice, Rabštejn) – deník 20–23.
+- HYPOTÉZY O OTCI ŠIMONA (aktuální, 8. 11. 2026, po deníku 48) – postupovat podle nich, ne plošně:
+  A Antonín * 1754 (syn Šebestiána), Šimon * mimo faru Budeč ........ 30 %  test: gruntovní knihy Radkovic čp. 5, výhosty (archiv)
+  B Matěj * 1750 (syn Šebestiána) ................................... 25 %  test: totéž; úmrtí Matěje v okolí
+  C nemanž. syn dcery Šebestiána (Marie Anna 1748, Anna 1752) .......... 10 %  test: nemanž. děti / sňatky dcer
+  V Vavřinec (syn Šebestiána, × XI 1770) ............................. 10 %  test: jeho děti podrobně (Šimon chybí 1771–77)
+  D jiná větev Ferdanů (Knínice, Radkovice čp. 15) .................... 15 %
+  E rodina mimo faru Budeč ............................................ 10 %
+  Šebestián = děd (A+B+C+V) ≈ 75 %. Hlavní argument: Franz Ferdan „z Radkovic“ (syn Šebestiána) kmotrem OBOU Šimonových dětí
+  v Rabštejně (1796, 1799); Šimonův syn Antonín; osadníci Rabštejna z fary samé (deník 48).
+  Hotovo: Kdousov O 1772–73 bez Ferdana (zbývá 1774–84); archivní dotaz sepsán (archivni_dotazy.md).
 - ROZPRACOVÁNO – Šimonův křest a otec: v Budči 1764–1774 (oddíly Budeč, Lomy, Knínice, Radkovice) není. DALŠÍ: zjistit, ke které
   faře patřila Borová / dvůr Rabštejn před 1784 (Budeč NOZ 1742–84 je nemá) – na portálu SOA Třeboň „Vyhledávání“ → lokalita;
   kandidáti na otce: Matěj Ferdan × Justina (Knínice), Vavřinec Ferdan × Marianna (Knínice, řezník), Šebestián (Radkovice).
