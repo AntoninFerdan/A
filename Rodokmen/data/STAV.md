@@ -52,7 +52,12 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   a případně původ; Antonínův úmrtní zápis 1832 tamtéž; Antonínův křest 1799 – [VYŘEŠENO: Rabštejn, deník 42] (zjistit faru) nebo Borová; úmrtí Antonína 1832 (Z 6296).
 - HOTOVO 8. 11. 2026: křest Antonína 14. 1. 1799 – fara Budeč (SOA Třeboň, kniha 3, id 2480, sn. 23), Rabštejn u Budče čp. 1,
   rodiče Šimon Ferdan × Marianna Wobořilová. Ferdanové jsou rod z fary Budeč (Knínice, Radkovice, Rabštejn) – deník 20–23.
-- HYPOTÉZY O OTCI ŠIMONA (aktuální, 8. 11. 2026, po deníku 48) – postupovat podle nich, ne plošně:
+- !!! AKTUALIZACE (deník 49): Antonín (* 1754) † 1754 (17 dní), Matěj (* 1750) † 1759 (8 let) → A, B VYVRÁCENY.
+  NOVÉ HYPOTÉZY: V Vavřinec (× XI 1770, Knínice) 40 % · C nemanž. syn Anny Ferdanové (* 1752, × VIII 1772 Cziharz) 20 % ·
+  D jiná větev Ferdanů (Knínice – Matěj rychtář × Justina; Jan) 30 % · E jiná rodina 10 %. Šebestián = děd ≈ 60 %.
+  TESTY: Vavřincovy děti 1771–72 přečíst ZNOVU v plném rozlišení (Šimon mohl být mezi Janem IV 1771 a Vavřincem IX 1772? – ne,
+  málo času → spíš křest jinde); úmrtí Vavřince (věk, děti); Anna Cziharzová – děti po 1772, poznámka u sňatku 1772.
+- (STARÉ, PŘEKONANÉ) HYPOTÉZY O OTCI ŠIMONA (po deníku 48):
   A Antonín * 1754 (syn Šebestiána), Šimon * mimo faru Budeč ........ 30 %  test: gruntovní knihy Radkovic čp. 5, výhosty (archiv)
   B Matěj * 1750 (syn Šebestiána) ................................... 25 %  test: totéž; úmrtí Matěje v okolí
   C nemanž. syn dcery Šebestiána (Marie Anna 1748, Anna 1752) .......... 10 %  test: nemanž. děti / sňatky dcer
