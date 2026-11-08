@@ -52,7 +52,14 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   a případně původ; Antonínův úmrtní zápis 1832 tamtéž; Antonínův křest 1799 – [VYŘEŠENO: Rabštejn, deník 42] (zjistit faru) nebo Borová; úmrtí Antonína 1832 (Z 6296).
 - HOTOVO 8. 11. 2026: křest Antonína 14. 1. 1799 – fara Budeč (SOA Třeboň, kniha 3, id 2480, sn. 23), Rabštejn u Budče čp. 1,
   rodiče Šimon Ferdan × Marianna Wobořilová. Ferdanové jsou rod z fary Budeč (Knínice, Radkovice, Rabštejn) – deník 20–23.
-- !!! AKTUALIZACE (deník 50): Vavřinec † 1809 Knínice, 68 l. (* ≈1741). Jeho děti IV 1771 a IX 1772 nenechávají místo pro Šimona
+- !!! NEJNOVĚJŠÍ (deník 52–54): HLAVNÍ HYPOTÉZA = Šimon je syn MATĚJE FERDANA st. (* ≈1731, vdovec z Knínic, × 31. 10. 1760
+  Veronika Tůmová, dcera Ondřeje Tůmy z Knínic; † 1778 Radkovice čp. 15, 47 l.). Rodina 1761–1773 MIMO faru Budeč (žádné děti
+  ve faře), ≈1774 zpět v Radkovicích (Vavřinec * 4. 8. 1774). Syn Tomáš (* ≈1764, voják, × 1792 Radkovice čp. 29) – Šimonův
+  vrstevník bez křtu ve faře – pravděpodobný bratr. Odhad: Matěj st. otcem ≈ 50 %.
+  TESTY: (1) kde žil Matěj st. 1761–73 – svědci/kmotři, úmrtní zápis 1778 (místo?), Tomášův sňatek 1792 (svědci, původ);
+  (2) vojenský pluk Tomáše (Soldat vom … Regiment) → kmenový list s rodištěm; (3) okolní fary (Lomy? Dešná, Jemnice, Kdousov,
+  Nová Říše, Dačice) – Tomáš ≈1764 i Šimon ≈1772 s otcem Matějem × Veronika; (4) archivní dotaz Rabštejn (archivni_dotazy.md).
+- (STARŠÍ) AKTUALIZACE (deník 50): Vavřinec † 1809 Knínice, 68 l. (* ≈1741). Jeho děti IV 1771 a IX 1772 nenechávají místo pro Šimona
   → V oslabena. Anna × 1772 jako „honesta“ (svobodná, bez dítěte). Ve faře Budeč 1770–75 Šimon jako Ferdan NENÍ ani u jedné rodiny.
   HYPOTÉZY TEĎ: E1 Šimon narozen mimo faru Budeč (otec nebo matka Ferdan sloužící jinde, nemanž. syn Ferdanové) 40 % ·
   V Vavřinec (dítě narozené jinde / jiný věk) 15 % · C Anna 10 % · D jiná větev 15 % · E2 nepříbuzný (jméno jinak) 20 %.
