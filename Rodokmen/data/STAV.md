@@ -64,6 +64,8 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
     žil v rodné vsi Ferdanů. Tomáš 1792–96 v Radkovicích bez dětí; vdova Veronika v rejstříku Z Budeč 1708–1849 není (asi se
     znovu vdala); Jakub † 1833 (48 l.) není svědek z 1792. DALŠÍ: sňatky Budeč 1778–1785 – vdova Veronika Ferdanová (nové
     příjmení → kde žila, zda u ní Šimon vyrůstal); Radkovice N 1797–1803 (Tomášovy děti, pokud se vrátil od pluku).
+  * Deník 61 (test 4): Franzovy děti Matěj 1778, Jiří 1780, Jakub 1782 – kmotři z Budíškovic, rodina Matěje st. ani Šimon
+    tam nejsou; Jakub * 1782 → svědek „Jakob Ferdan, sedlák“ 1792 je asi špatné čtení (test 2 odpadá).
   * DALŠÍ ONLINE TESTY (síť sourozenců), testy 1 a 3 částečně hotové:
     1. Kmotři Tomášových dětí (Radkovice 1793–1805, Budeč kniha 3, SOA Třeboň id 2480 – přes Chrome) – jsou kmotry Šimon/Marianna?
     2. Kdo je Jakub Ferdan (svědek 1792), jeho otec a sňatek.
