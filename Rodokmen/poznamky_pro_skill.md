@@ -32,3 +32,10 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
   výška = poměr stran), pak `computer screenshot` se `save_to_disk` → soubor zkopírovat do `pracovni/` a z něj `vyrez.py`.
   Rozlišení výřezu je jen obrazovkové, ale na čtení i web stačí. Nástroj by to mohl zjednodušit.
 - Návod by měl uživateli rovnou popsat instalaci Claude in Chrome (odkaz na Chrome Web Store, přihlášení v bočním panelu).
+
+## SOA Třeboň – trebon.py na Windows (Python 3.14)
+- `trebon.py misto` i ostatní příkazy dostaly od digi.ceskearchivy.cz HTTP 403 (curl se stejnou adresou 200) – portál zřejmě
+  odmítá výchozí User-Agent Pythonu. Obešel jsem to prohlížením v Claude in Chrome. Nástroj by asi měl posílat vlastní
+  User-Agent jako portafontium.py.
+- V Chromu: snímek s přiblížením jde otevřít adresou `/<id_knihy>/<snímek>/<x>/<y>/<zoom %>/0` (x, y = střed v pixelech snímku).
+- Knihy fary Dačice jsou řazené po vsích s vlastní foliací – údaj „fol. 83“ z farního indexu neodpovídá číslu snímku.

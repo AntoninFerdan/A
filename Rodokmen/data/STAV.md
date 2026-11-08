@@ -41,6 +41,9 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   přiblížení `g_viewer.viewport.fitBounds(new OpenSeadragon.Rect(x,y,w,h))`, zdroj výřezu = snímek obrazovky (save_to_disk) do pracovni/mza592/.
 - HOTOVO 8. 11. 2026 (MZA, O Domamil 592): sňatek Augustin Ferdan × Marianna Kočí 22. 11. 1898 (sn. 38) a Ondřej Kočí × Apolonie
   Kopečková 22. 2. 1870 (sn. 25). Rok → snímek: 1863 = 20, 1868–69 = 24, 1870 = 25, 1897–98 = 38, 1899–1900 = 39.
+- ROZPRACOVÁNO: Marie Horálková – v indexu Dačice (deník č. 9) stopa „Maria, Melchior u. Petronilla, 10. 11. 1846, Malý Pěčín,
+  fol. 83“ → najít oddíl Malý Pěčín v knize Dačice 5 (https://digi.ceskearchivy.cz/3090/…) a přečíst. Python nástroj trebon.py
+  na tomto PC dostává HTTP 403 → SOA Třeboň jen přes Chrome. Velký Pěčín 1863+ (křest Augustina 1870) není online → archivni_dotazy.md.
 - DALŠÍ (Ferdanové): křest Augustina 18. 12. 1870 (strom: Velký Pěčín – zjistit faru), sňatek Martina Ferdana × Marie Horálkové
   (v Domamili 1868–70 není → asi fara nevěsty v Pěčíně), křest Martina 11. 11. 1848 Domamil čp. 41 (N Domamil = detail/6292).
 - HOTOVO 8. 11. 2026: Dubové z Pece (fara Trhanov, Porta fontium): křest Karla 1876, sňatek Jana Duby × Barbory Schrödlové 1859,
