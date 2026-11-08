@@ -55,6 +55,9 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 - ROZPRACOVÁNO – Šimonův křest a otec: v Budči 1764–1774 (oddíly Budeč, Lomy, Knínice, Radkovice) není. DALŠÍ: zjistit, ke které
   faře patřila Borová / dvůr Rabštejn před 1784 (Budeč NOZ 1742–84 je nemá) – na portálu SOA Třeboň „Vyhledávání“ → lokalita;
   kandidáti na otce: Matěj Ferdan × Justina (Knínice), Vavřinec Ferdan × Marianna (Knínice, řezník), Šebestián (Radkovice).
+  8. 11. 2026 (deník 24): Borová = Rabštejn, část obce Budeč → patřila k faře Budeč; Šimon 1764–1778 ve všech oddílech nenalezen.
+  Zbývá: oddíl „Borová/Rabštejn“ mohl být zapisován u Lomů nebo jinde – projít Budeč 2 sn. 1–11 a 26–51 (co tam je); sňatky Ferdanů
+  v Budči kolem 1765–72 (O, rejstřík sn. 10: 1770 Vavřinec); možnost nemanželského původu (v O 1793 jen „Kateřina z čp. 34“).
   Také úmrtní zápisy Ferdanů v Budči (Z 1784–1824) – kdo zemřel v Rabštejně. SOA Třeboň jen přes Chrome (trebon.py → 403).
 - PŮVODNÍ POZNÁMKA: křest Antonína 14. 1. 1799 – Domamil N 1785–1841 (detail/6291, oddíl Domamil sn. 2–65; 1799 ≈ sn. 12)
   nebo Rokytná/Rokytnice (tužková pozn.), strom Borová; sňatek Šimon Ferdan × Marianna Wobořil 11. 2. 1793 (O 6295, Domamil sn. 1–31);
