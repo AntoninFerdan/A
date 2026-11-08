@@ -34,5 +34,29 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "domamil_snatek_augustin_ferdan_marianna_koci_1898": {
+  "boxes": [
+   [
+    0.0,
+    0.5,
+    1.0,
+    0.93
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "domamil_snatek_ondrej_koci_apolonie_kopeckova_1870": {
+  "boxes": [
+   [
+    0.03,
+    0.1,
+    0.97,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

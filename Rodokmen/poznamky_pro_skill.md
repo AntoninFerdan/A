@@ -26,3 +26,9 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
   https://www.portafontium.eu (schannel kořen doplní), pak už Python prošel. Nástroj by mohl při chybě tohle poradit.
 - Obec → fara: Pec pod Čerchovem (Hochofen) je po 1787 fara **Trhanov** (do 1789 Klenčí). Hledání
   `searching/register?search_api_views_fulltext_1=Hochofen` (německý název) faru našlo, český název ne.
+- **Funguje přes Claude in Chrome** (běžný Chrome uživatele): snímky se načtou, ALTCHA projde sama. Postup, který se osvědčil:
+  snímek n otevřít adresou `matrika/detail/<id>?image=<prefix>-<n*10 na 5 číslic>.jp2` (názvy snímků jsou v `g_viewer.source_names`),
+  přiblížit místo přes `g_viewer.viewport.fitBounds(new OpenSeadragon.Rect(x, y, w, h), true)` (souřadnice: šířka obrázku = 1,
+  výška = poměr stran), pak `computer screenshot` se `save_to_disk` → soubor zkopírovat do `pracovni/` a z něj `vyrez.py`.
+  Rozlišení výřezu je jen obrazovkové, ale na čtení i web stačí. Nástroj by to mohl zjednodušit.
+- Návod by měl uživateli rovnou popsat instalaci Claude in Chrome (odkaz na Chrome Web Store, přihlášení v bočním panelu).

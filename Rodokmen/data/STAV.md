@@ -37,7 +37,12 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 - Přímá linie převzata z MyHeritage GEDCOM (97 osob, `dokumenty/strom.ged` – soubor není v gitu, uživatel ho vloží znovu).
 - Práce běží na počítači uživatele (Windows, `X:\Knihy\rodokmen\A\Rodokmen`; Python 3.14 jako `python -I -X utf8`,
   ImageMagick 7 nainstalován 8. 11. 2026). MZA: ve vestavěném prohlížeči Claude obrázkový server vrací 403
-  (ani lokálně to nejde) – snímky z MZA jen přes Claude in Chrome (uživatel připojí rozšíření) nebo snímek obrazovky od uživatele.
+  (ani lokálně to nejde) – MZA jde přes Claude in Chrome (připojeno 8. 11. 2026): adresa snímku n = detail/592?image=…-FM-B09016-0<n*10>.jp2,
+  přiblížení `g_viewer.viewport.fitBounds(new OpenSeadragon.Rect(x,y,w,h))`, zdroj výřezu = snímek obrazovky (save_to_disk) do pracovni/mza592/.
+- HOTOVO 8. 11. 2026 (MZA, O Domamil 592): sňatek Augustin Ferdan × Marianna Kočí 22. 11. 1898 (sn. 38) a Ondřej Kočí × Apolonie
+  Kopečková 22. 2. 1870 (sn. 25). Rok → snímek: 1863 = 20, 1868–69 = 24, 1870 = 25, 1897–98 = 38, 1899–1900 = 39.
+- DALŠÍ (Ferdanové): křest Augustina 18. 12. 1870 (strom: Velký Pěčín – zjistit faru), sňatek Martina Ferdana × Marie Horálkové
+  (v Domamili 1868–70 není → asi fara nevěsty v Pěčíně), křest Martina 11. 11. 1848 Domamil čp. 41 (N Domamil = detail/6292).
 - HOTOVO 8. 11. 2026: Dubové z Pece (fara Trhanov, Porta fontium): křest Karla 1876, sňatek Jana Duby × Barbory Schrödlové 1859,
   úmrtí Barbory 1898. Jan Duba byl nemanželský syn Markéty Dubové z Těšovic čp. 19.
 - DALŠÍ (Dubové): sňatek Karel Duba × Josefa Kozderová 8. 5. 1900 Kdousov (MZA – fara Kdousov/Police?); křest Barbory
