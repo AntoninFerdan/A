@@ -9,3 +9,13 @@ Co by šlo zjistit jen v badatelně archivu nebo na matričním úřadě (a pro�
   Online jen farní index Dačice: „Maria, Melchior u. Petronilla, 10. Nov. 1846, Kl. Pantschen, fol. 83“ – ověřit, zda jde o ni
   (strom uvádí matku Marii Jakubcovou a jiné datum).
 - Sňatek Martina Ferdana a Marie Horálkové: v Domamili 1868–70 ani ve faře Dačice 1864–1949 není → nejspíš Kostelní Vydří / Velký Pěčín 1863+.
+
+## Antonín Ferdan (* 12. 2. 1754 Radkovice, syn Šebestiána) – kde žil? (možný otec Šimona Ferdana, * ≈1772)
+Ve faře Budeč se neženil, nemá tam děti ani úmrtí (1754–1849); v Domamili se neženil 1770–73 a nezemřel 1784–1841.
+- **SOA Třeboň, pobočka Jindřichův Hradec – fond velkostatku, k němuž patřily Radkovice (Budeč / Jemnice?):**
+  gruntovní (pozemkové) knihy Radkovic, statek čp. 5 a 7 – převod statku po Šebestiánu Ferdanovi († 1796) na syna Franze;
+  u převodu bývají vypsáni sourozenci a jejich podíly („Antonín, t. č. …“). Dále sirotčí knihy a vrchnostenské
+  propouštěcí listy (výhosty) 1770–1795 – výhost Antonína Ferdana k sňatku nebo odchodu jinam.
+- **Vojenský historický archiv (VHA) Praha / Kriegsarchiv Wien:** kmenové listy (Grundbuchblätter) a vojenské matriky
+  pluků doplňovaných z Jihlavska/Znojemska 1771–1800 – Antonín Ferdan (* 1754 Radkovice, panství …).
+- **Tereziánský katastr / soupis obyvatel 1771 (čísla domů):** Radkovice – kdo žil v čp. 5 a 7, zda je uveden Antonín.
