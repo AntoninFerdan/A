@@ -102,8 +102,8 @@ P = {
  253: dict(n='Eva Baza', y='', st='fam', f=[], r=[]),
  254: dict(n='Karel Baza', y='', st='fam', f=[], r=[]),
  255: dict(n='Ludmila Koller', y='', st='fam', f=[], r=[]),
- 260: dict(n='Šimon Ferdan', y='1764–1839', st='doc', f=['* 10. 10. 1764 Domamil', '× 11. 2. 1793 Domamil Marianna Wobořil', 'tesař v Domamili (1821)', '† 18. 5. 1839 Domamil'], r=['stepkov_snatek_anton_ferdan_frantiska_spinkova_1821'], note='Jako otec Antona a tesař v Domamili doložen oddacím zápisem syna 1821 (dal souhlas, podepsal se křížkem). Narození, sňatek a úmrtí zatím jen ze stromu.'),
- 261: dict(n='Marianna Wobořil', y='1772–1852', st='mh', f=['* 5. 12. 1772 Domamil', '† 25. 5. 1852 Domamil', '× 11. 2. 1793 Domamil Šimon Ferdan'], r=[], note='Údaje převzaté z cizího stromu na MyHeritage/Geni (Smart Match) – neověřeno.'),
+ 260: dict(n='Šimon Ferdan', y='1764–1839', st='doc', f=['* 10. 10. 1764 Domamil (?)', '× 11. 2. 1793 Domamil Marie Anna Wobořilová', 'Domamil čp. 34 (1793)', 'tesař v Domamili (1821)', '† 18. 5. 1839 Domamil'], r=['domamil_snatek_simon_ferdan_marie_anna_woborilova_1793', 'stepkov_snatek_anton_ferdan_frantiska_spinkova_1821'], note='Sňatek 1793 doložen matrikou (čp. 34; věk čten jako 20, což nesedí s narozením 1764 ze stromu – viz Co hledáme). Jako otec Antona a tesař doložen oddacím zápisem syna 1821 (podepsal se křížkem). Úmrtí zatím jen ze stromu.'),
+ 261: dict(n='Marie Anna Wobořilová', y='1772–1852', st='doc', f=['* 5. 12. 1772 Domamil', '× 11. 2. 1793 Domamil Šimon Ferdan', '† 25. 5. 1852 Domamil'], r=['domamil_snatek_simon_ferdan_marie_anna_woborilova_1793'], note='Sňatek doložen matrikou (20 let, dcera zemřelého Bartoloměje Wobořila z Domamile) – věk sedí s narozením 1772 ze stromu. Úmrtí jen ze stromu.'),
  262: dict(n='Jiří Špinka', y='† před 1821', st='doc', f=['domkář ve Štěpkově čp. 6', '† před 28. 11. 1821'], r=['stepkov_snatek_anton_ferdan_frantiska_spinkova_1821'], note='Jako otec Františky („Georg Špinka, Häusler in Stěpkau N° 6“, tehdy už zemřelý) doložen oddacím zápisem 1821. Ve stromu jen příjmení.'),
  454: dict(n='Jakub Nový', y='', st='fam', f=[], r=[]),
  455: dict(n='Anna', y='', st='mh', f=[], r=[], note='Údaje převzaté z cizího stromu na MyHeritage/Geni (Smart Match) – neověřeno.'),
@@ -144,6 +144,7 @@ ISSUES = [
  ("Kdo byl otcem Martina Ferdana (* 1848 Domamil)?", "Otevřené: křestní zápis 1848 otce neuvádí – Martin byl nemanželský syn Františky Ferdanové. Příjmení Ferdan tedy jde po matce."),
  ("Jmenoval se kovář z Těšovic čp. 19, otec Markéty Dubové, Matyáš, nebo Jan?", "Otevřené: oddací zápis 1859 píše Mathias Duba, křestní zápis vnuka Karla 1876 Jan Duba. Bližší době je zápis 1859; rozhodne křest Markéty (asi 1812, fara Těšovic) nebo zápisy v Těšovicích."),
  ("Kde se narodil Antonín Ferdan (* 14. 1. 1799)?", "Otevřené: strom uvádí Borovou (Jindřichohradecko), pozdější tužková poznámka v oddací matrice 1821 „v Rokytně“ (čtení nejisté). Jeho otec Šimon byl tesař v Domamili – ověřit křest v Domamili 1799 (N 1785–1841) a případně Rokytnici nad Rokytnou."),
+ ("Kdy se narodil Šimon Ferdan a kdo byli jeho rodiče?", "Otevřené: strom uvádí * 10. 10. 1764 Domamil, ale v oddacím zápisu 1793 je věk čten jako 20 let (tj. * asi 1772/73). Za jménem je zkratkovitě „… der Katharina aus N° 34“ – může jít o jeho matku Kateřinu. Ověřit v N Domamil 1709–1778 a 1778–1784."),
  ("Kdo byl otec Pelechové a jak se jmenoval?", "Otevřené: ve stromu jen příjmení Pelech a Dobšice."),
 ]
 

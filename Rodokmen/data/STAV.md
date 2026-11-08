@@ -46,7 +46,11 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   u. Petronilla, 10. 11. 1846, Malý Pěčín“ (deník č. 9). Python trebon.py na tomto PC dostává HTTP 403 → SOA Třeboň jen přes Chrome.
 - HOTOVO 8. 11. 2026 (MZA Domamil): křest Martina 1848 (nemanželský, otec neuveden), sňatek Anton Ferdan × Františka Špinková
   28. 11. 1821 (Štěpkov), křest Františky 11. 2. 1822. Domamil má matriky od 1659 + index 1784–1902 (detail/6297).
-- DALŠÍ (Ferdanové): křest Antonína 14. 1. 1799 – Domamil N 1785–1841 (detail/6291, oddíl Domamil sn. 2–65; 1799 ≈ sn. 12)
+- HOTOVO 8. 11. 2026: sňatek Šimon Ferdan × Marie Anna Wobořilová 11. 2. 1793 (O 6295 sn. 6). Antonín (* 1799) se v Domamili
+  NENARODIL (deník 16). Šimonův křest nejasný (deník 17) – věk 20 při sňatku 1793 vs. strom 1764.
+- DALŠÍ (Ferdanové): Šimonův křest – index NOZ 1784–1902 (detail/6297) nesahá před 1784 → projít N 1709–1778 (6289) kolem 1772–73
+  i 1764; Antonínův křest 1799 – Rokytnice nad Rokytnou / Rokytná (zjistit faru) nebo Borová; úmrtí Antonína 1832 (Z 6296).
+- PŮVODNÍ POZNÁMKA: křest Antonína 14. 1. 1799 – Domamil N 1785–1841 (detail/6291, oddíl Domamil sn. 2–65; 1799 ≈ sn. 12)
   nebo Rokytná/Rokytnice (tužková pozn.), strom Borová; sňatek Šimon Ferdan × Marianna Wobořil 11. 2. 1793 (O 6295, Domamil sn. 1–31);
   křest Šimona 10. 10. 1764 (N 1709–1778 = detail/6289); úmrtí Antonína 5. 9. 1832 (Z 1784–1841 = detail/6296).
 - STARŠÍ ÚKOLY (Ferdanové): křest Augustina 18. 12. 1870 (strom: Velký Pěčín – zjistit faru), sňatek Martina Ferdana × Marie Horálkové
