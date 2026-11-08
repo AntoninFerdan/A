@@ -65,6 +65,9 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   čp. 18, † 1808; Franz Fedra × 1791) – nezaměňovat. Starší Ferdan (otec) v Rabštejně nezemřel. Sňatky Budeč O sn. 2–6
   (1784–1801) bez ženicha Ferdan. DALŠÍ: Budeč O sn. 7–12 (1802–1824) a sňatek Johanna Ferdana (čp. 17); a odkud osadníci Rabštejna přišli
   (Knínice? – syn Vavřince Jan * 1771/1774 = Johann z čp. 17?).
+  ROZPRACOVÁNO (deník 39): rejstřík Z Budeč – Matěj Ferdan † 1778 a 1779 Radkovice (přečíst věk: Z sn. ~191–194), Šebestián
+  † 1796 Radkovice 7, Antonín v Z NENÍ (žil dál nebo zemřel jinde). Pak: nemanželské děti (Budeč 2 – oddíly „nemanželské“?
+  rejstřík N „F“ sn. 55–56) a sňatky Matěje/Antonína v okolních farách (Jemnice 6400, Kdousov 6431, Dačice, Lomnice).
   STAV 8. 11. 2026 (deník 37–38): Šebestiánovi synové – Vavřinec (× 18. 11. 1770, řezník Knínice, děti Jan 1771, Vavřinec 1772,
   Jan 1774, Tomáš 1775, Jan 1777), Matěj * 1750 a Antonín * 1754 (v Budči se neženili, děti 1771–74 nemají), Franz * 1756.
   Šimon v Knínicích ani Radkovicích 1770–1774 NENÍ. Možnosti: (a) Šimon nemanželský syn některé Šebestiánovy dcery (Marie Anna
