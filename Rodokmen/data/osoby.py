@@ -134,6 +134,8 @@ LINES = {
 # Příbuzní mimo přímou linii (sourozenci, strýcové…): k = číslo předka, ke kterému patří.
 # dict(k=16, n="Josef Novák (1865–1920)", t="Bratr Jana. Kovář v …", r=["klic_zapisu"])
 SIDE = [
+ dict(k=65, n="Ondřej (Andreas) Ferdan (1858–1861)", t="Nemanželský syn Františky Ferdanové, mladší bratr Martina. Narozen 29. 11. 1858 v Domamili čp. 72, zemřel 9. 11. 1861 ve třech letech. (Výstřižek z matriky od Antonína.)", r=[]),
+ dict(k=130, n="Marianna Ferdanová (* 1796)", t="Dcera Ferdanových z Rabštejna (rejstřík fary Budeč, 1796) – nejspíš starší sestra Antonína, dcera Šimona. Při sčítání 1857 žila v Domamili čp. 39 (rok narození tam 1798). Ověřit v matrice.", r=[]),
 ]
 
 # Rozpory a otevřené otázky (na web do „Co hledáme“) jako dvojice (otázka, odpověď). Odpověď začněte
