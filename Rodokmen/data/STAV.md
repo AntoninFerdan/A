@@ -52,7 +52,13 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   a případně původ; Antonínův úmrtní zápis 1832 tamtéž; Antonínův křest 1799 – [VYŘEŠENO: Rabštejn, deník 42] (zjistit faru) nebo Borová; úmrtí Antonína 1832 (Z 6296).
 - HOTOVO 8. 11. 2026: křest Antonína 14. 1. 1799 – fara Budeč (SOA Třeboň, kniha 3, id 2480, sn. 23), Rabštejn u Budče čp. 1,
   rodiče Šimon Ferdan × Marianna Wobořilová. Ferdanové jsou rod z fary Budeč (Knínice, Radkovice, Rabštejn) – deník 20–23.
-- !!! AKTUALIZACE (deník 49): Antonín (* 1754) † 1754 (17 dní), Matěj (* 1750) † 1759 (8 let) → A, B VYVRÁCENY.
+- !!! AKTUALIZACE (deník 50): Vavřinec † 1809 Knínice, 68 l. (* ≈1741). Jeho děti IV 1771 a IX 1772 nenechávají místo pro Šimona
+  → V oslabena. Anna × 1772 jako „honesta“ (svobodná, bez dítěte). Ve faře Budeč 1770–75 Šimon jako Ferdan NENÍ ani u jedné rodiny.
+  HYPOTÉZY TEĎ: E1 Šimon narozen mimo faru Budeč (otec nebo matka Ferdan sloužící jinde, nemanž. syn Ferdanové) 40 % ·
+  V Vavřinec (dítě narozené jinde / jiný věk) 15 % · C Anna 10 % · D jiná větev 15 % · E2 nepříbuzný (jméno jinak) 20 %.
+  Šebestián = děd ≈ 35–40 %. Nejlepší další test: Šimonova úmrtní/oddací data nic dalšího neřeknou → kmotři ostatních dětí
+  Šimona v Domamili (1800–1816) a domamilský soupis 1857 / gruntovní kniha Domamil čp. 34 (kdo dům držel před ním).
+- (PŘEKONANÉ) AKTUALIZACE (deník 49): Antonín (* 1754) † 1754 (17 dní), Matěj (* 1750) † 1759 (8 let) → A, B VYVRÁCENY.
   NOVÉ HYPOTÉZY: V Vavřinec (× XI 1770, Knínice) 40 % · C nemanž. syn Anny Ferdanové (* 1752, × VIII 1772 Cziharz) 20 % ·
   D jiná větev Ferdanů (Knínice – Matěj rychtář × Justina; Jan) 30 % · E jiná rodina 10 %. Šebestián = děd ≈ 60 %.
   TESTY: Vavřincovy děti 1771–72 přečíst ZNOVU v plném rozlišení (Šimon mohl být mezi Janem IV 1771 a Vavřincem IX 1772? – ne,
