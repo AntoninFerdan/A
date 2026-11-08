@@ -58,5 +58,41 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "domamil_krest_martin_ferdan_1848": {
+  "boxes": [
+   [
+    0.01,
+    0.04,
+    0.99,
+    0.97
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "stepkov_snatek_anton_ferdan_frantiska_spinkova_1821": {
+  "boxes": [
+   [
+    0.01,
+    0.12,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "domamil_krest_frantiska_ferdanova_1822": {
+  "boxes": [
+   [
+    0.01,
+    0.04,
+    0.99,
+    0.97
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }
