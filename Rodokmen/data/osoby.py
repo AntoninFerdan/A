@@ -114,8 +114,8 @@ P = {
  473: dict(n='Anna Krátká', y='', st='mh', f=['* Vranice', '× Jan sedlák z Tlučeně čp.5 Slavíček'], r=[], note='Údaje převzaté z cizího stromu na MyHeritage/Geni (Smart Match) – neověřeno. Ve stromu: Anna z Vranic.'),
  474: dict(n='Antonín Polesný', y='1795–1874', st='mh', f=['* 9. 5. 1795 Ledečko  č.12, Kutná Hora', '† 23. 6. 1874 Ledečko 12, Kutná Hora', '× 21. 1. 1821 Úžice č.16 - farn. Úžice - K07/7, Kutná Hora Anna Zámostná', 'švec'], r=[], note='Údaje převzaté z cizího stromu na MyHeritage/Geni (Smart Match) – neověřeno.'),
  475: dict(n='Anna Zámostná', y='1802–1883', st='mh', f=['* 5. 1. 1802 Úžice  č.p. 16 - farn. Úžice - K03/3, Kutná Hora', '† 5. 9. 1883 Přívlaky č. 13 - Sázava K14/243', '† (pohřeb) Sázava Sv. Martin', '× 21. 1. 1821 Úžice č.16 - farn. Úžice - K07/7, Kutná Hora Antonín Polesný'], r=[], note='Údaje převzaté z cizího stromu na MyHeritage/Geni (Smart Match) – neověřeno.'),
- 520: dict(n='Matěj Ferdan', y='', st='fam', f=['× Marie Anna'], r=[]),
- 521: dict(n='Marie Anna', y='', st='fam', f=['× Matěj Ferdan'], r=[]),
+ 520: dict(n='Matěj Ferdan', y='asi 1731–1778', st='fam', f=['* asi 1731 (podle věku při úmrtí)', '1760 vdovec z Knínic; × 31. 10. 1760 Budeč Veronika Tůmová', 'sedlák v Radkovicích čp. 15 (1773–1778)', '† 8. 8. 1778 Radkovice čp. 15, 47 let'], r=[], note='Uznán za Šimonova otce vylučovací metodou (8. 11. 2026): jediný Ferdan, jehož děti z let 1758–1773 (Marianna ≈1758, Tomáš ≈1764, Bartoloměj ≈1772) nejsou pokřtěné ve faře Budeč – stejně jako Šimon (≈1771). Ostatní Ferdanové vyloučeni (Šebestián, jeho synové Matěj, Antonín, Vavřinec, František, Matěj z Knínic × Justina). Přímý zápis o otcovství chybí – viz Co hledáme.'),
+ 521: dict(n='Veronika Tůmová', y='× 1760', st='fam', f=['dcera Ondřeje Tůmy z Knínic', '× 31. 10. 1760 Matěj Ferdan, vdovec z Knínic'], r=[], note='Pravděpodobná matka Šimona (narozen ≈1771, tedy v 2. manželství Matěje). MyHeritage uvádí „Marie Anna“ – nejspíš záměna se Šimonovou ženou. Úmrtí ve faře Budeč 1708–1849 nenalezeno (asi se po 1778 znovu vdala).'),
 }
 
 # Rody = osm větví podle pradědečků a prababiček (čísla 8–15). Doplňte, jakmile je znáte:
