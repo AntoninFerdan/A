@@ -19,3 +19,13 @@ Ve faře Budeč se neženil, nemá tam děti ani úmrtí (1754–1849); v Domami
 - **Vojenský historický archiv (VHA) Praha / Kriegsarchiv Wien:** kmenové listy (Grundbuchblätter) a vojenské matriky
   pluků doplňovaných z Jihlavska/Znojemska 1771–1800 – Antonín Ferdan (* 1754 Radkovice, panství …).
 - **Tereziánský katastr / soupis obyvatel 1771 (čísla domů):** Radkovice – kdo žil v čp. 5 a 7, zda je uveden Antonín.
+
+## Rabštejn (Borová u Budče) – osídlení po rozdělení dvora (podnět uživatele 8. 11. 2026)
+Dvůr Rabštejn patřil zrušenému klášteru Louka (premonstráti, Louka u Znojma, zrušen 1784); po zrušení správa náboženského
+fondu / státních statků, pak raabizace a rozdělení dvora mezi osadníky (osada vzniká 1788, domy zprvu „bez čísla“).
+Hledat (MZA Brno – fond klášter Louka a jeho správa po zrušení, příp. velkostatek, k němuž Rabštejn připadl; SOA Třeboň
+pobočka Jindřichův Hradec; Národní archiv – fond Josefský katastr / Raabizační spisy):
+- **Gruntovní kniha Rabštejna** – první vlastníci jednotlivých usedlostí (čp. 1 Šimon Ferdan ≈1795, čp. 17 Johann Ferdan, čp. 18 Fedra, čp. 20 Jiří Ferdan).
+- **Parcelační / dělicí protokol 1784–1790** – kdo získal jakou půdu a odkud přišel.
+- **Přídělové či kupní smlouvy** – podmínky získání hospodářství (u osadníka bývá rodiště a otec).
+- **Spisy správy zrušeného louckého kláštera** po 1784 – proces parcelace dvora Rabštejn.
