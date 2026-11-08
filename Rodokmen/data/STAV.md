@@ -44,7 +44,12 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 - UZAVŘENO ONLINE (8. 11. 2026): Augustinův křest 1870, sňatek Martina × Marie Horálkové a křest Marie (Malý Pěčín 1846) nejsou
   digitalizované – vše na matričním úřadě Dačice (archivni_dotazy.md). Jediná online stopa: farní index Dačice „Maria, Melchior
   u. Petronilla, 10. 11. 1846, Malý Pěčín“ (deník č. 9). Python trebon.py na tomto PC dostává HTTP 403 → SOA Třeboň jen přes Chrome.
-- DALŠÍ (Ferdanové): křest Augustina 18. 12. 1870 (strom: Velký Pěčín – zjistit faru), sňatek Martina Ferdana × Marie Horálkové
+- HOTOVO 8. 11. 2026 (MZA Domamil): křest Martina 1848 (nemanželský, otec neuveden), sňatek Anton Ferdan × Františka Špinková
+  28. 11. 1821 (Štěpkov), křest Františky 11. 2. 1822. Domamil má matriky od 1659 + index 1784–1902 (detail/6297).
+- DALŠÍ (Ferdanové): křest Antonína 14. 1. 1799 – Domamil N 1785–1841 (detail/6291, oddíl Domamil sn. 2–65; 1799 ≈ sn. 12)
+  nebo Rokytná/Rokytnice (tužková pozn.), strom Borová; sňatek Šimon Ferdan × Marianna Wobořil 11. 2. 1793 (O 6295, Domamil sn. 1–31);
+  křest Šimona 10. 10. 1764 (N 1709–1778 = detail/6289); úmrtí Antonína 5. 9. 1832 (Z 1784–1841 = detail/6296).
+- STARŠÍ ÚKOLY (Ferdanové): křest Augustina 18. 12. 1870 (strom: Velký Pěčín – zjistit faru), sňatek Martina Ferdana × Marie Horálkové
   (v Domamili 1868–70 není → asi fara nevěsty v Pěčíně), křest Martina 11. 11. 1848 Domamil čp. 41 (N Domamil = detail/6292).
 - HOTOVO 8. 11. 2026: Dubové z Pece (fara Trhanov, Porta fontium): křest Karla 1876, sňatek Jana Duby × Barbory Schrödlové 1859,
   úmrtí Barbory 1898. Jan Duba byl nemanželský syn Markéty Dubové z Těšovic čp. 19.
