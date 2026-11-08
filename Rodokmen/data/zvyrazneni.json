@@ -142,5 +142,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "budec_krest_jan_ferdan_1693": {
+  "boxes": [
+   [
+    0.1,
+    0.68,
+    1.0,
+    0.86
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }
