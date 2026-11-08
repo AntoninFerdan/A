@@ -29,3 +29,9 @@ pobočka Jindřichův Hradec; Národní archiv – fond Josefský katastr / Raab
 - **Parcelační / dělicí protokol 1784–1790** – kdo získal jakou půdu a odkud přišel.
 - **Přídělové či kupní smlouvy** – podmínky získání hospodářství (u osadníka bývá rodiště a otec).
 - **Spisy správy zrušeného louckého kláštera** po 1784 – proces parcelace dvora Rabštejn.
+
+## Tomáš Ferdan, voják pluku Lacy (IR 22) – rodiště (= možné rodiště Šimona)
+Tomáš Ferdan (* ≈1764), syn Matěje Ferdana, sedláka z Radkovic (fara Budeč), 1792 „Soldat vom Lacy“ (pěší pluk č. 22 hr. Lacy).
+Rodina Matěje Ferdana st. (× 1760 Veronika Tůmová z Knínic) žila 1761–1773 mimo faru Budeč; Tomášův ani Šimonův křest tam není.
+- **Vojenský historický archiv Praha / Kriegsarchiv Wien – Grundbuchblätter / Musterlisten IR 22** (cca 1780–1792): Tomáš Ferdan,
+  rodiště, otec, rok narození. Kmenové listy uvádějí obec a panství narození – to by ukázalo, kde rodina 1761–73 žila.
