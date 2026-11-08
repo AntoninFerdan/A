@@ -52,7 +52,22 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   a případně původ; Antonínův úmrtní zápis 1832 tamtéž; Antonínův křest 1799 – [VYŘEŠENO: Rabštejn, deník 42] (zjistit faru) nebo Borová; úmrtí Antonína 1832 (Z 6296).
 - HOTOVO 8. 11. 2026: křest Antonína 14. 1. 1799 – fara Budeč (SOA Třeboň, kniha 3, id 2480, sn. 23), Rabštejn u Budče čp. 1,
   rodiče Šimon Ferdan × Marianna Wobořilová. Ferdanové jsou rod z fary Budeč (Knínice, Radkovice, Rabštejn) – deník 20–23.
-- !!! NEJNOVĚJŠÍ (deník 52–54): HLAVNÍ HYPOTÉZA = Šimon je syn MATĚJE FERDANA st. (* ≈1731, vdovec z Knínic, × 31. 10. 1760
+- >>> PŘEDÁVKA DO DALŠÍHO CHATU (8. 11. 2026, deník 1–59):
+  * Uživatel NECHCE posílat archivní žádosti – hledat jen online. Pracovat s hypotézami a pravděpodobnostmi, hledat podle bydliště/domů.
+  * Fedra ≠ Ferdan (uživatel si je jistý). Antonín Ferdan * 1754 † jako 17denní, Matěj * 1750 † 1759 → nejsou otci Šimona.
+  * Šimon: × 11. 2. 1793 Domamil (krejčí z čp. 34, 20 l.), 1796–99 Rabštejn čp. 1 (kmotr Franz Ferdan z Radkovic, syn Šebestiána),
+    ≈1803 zpět v Domamili, † 18. 5. 1839 Domamil, 68 l. Křest NENALEZEN: Budeč 1742–84 vč. indexů, Domamil 1764–78, Jemnice a Kdousov 1771–73.
+  * Hypotézy (osoby.py HYPOTEZY): Matěj Ferdan st. ≈ 50 % · jiný Ferdan narozený mimo faru 15 % · Vavřinec 10 % · Anna 5 % · jiná větev 10 %
+    · nepříbuzný 10 %. Šebestián jako děd ≈ 50–60 % (sjednotit text v HYPOTEZY). Indicie: Šimon pojmenoval syna Matyáš (1816);
+    Tomáš Ferdan (* ≈1764, voják IR 22 Lacy, × 12. 11. 1792 Radkovice čp. 29, svědek Jakub Ferdan, sedlák) = pravděpodobný bratr.
+  * DALŠÍ ONLINE TESTY (síť sourozenců), začít 1 a 3:
+    1. Kmotři Tomášových dětí (Radkovice 1793–1805, Budeč kniha 3, SOA Třeboň id 2480 – přes Chrome) – jsou kmotry Šimon/Marianna?
+    2. Kdo je Jakub Ferdan (svědek 1792), jeho otec a sňatek.
+    3. Úmrtí vdovy Veroniky Ferdanové (manž. Matěje st.) – kde a v kolika letech, případně u Šimona (indexy zemřelých Budeč, Domamil).
+    4. Kmotři Franzových dětí 1778–98.
+    5. Kde žila rodina Matěje st. 1761–73 (jiné fary, statky louckého kláštera).
+  * Web: postaven (`web/`, náhled `npm --prefix web run dev`, port 4321). Chybí přihlašovací otázka/odpověď v data/web.json – zeptat se uživatele.
+- !!! (deník 52–54): HLAVNÍ HYPOTÉZA = Šimon je syn MATĚJE FERDANA st. (* ≈1731, vdovec z Knínic, × 31. 10. 1760
   Veronika Tůmová, dcera Ondřeje Tůmy z Knínic; † 1778 Radkovice čp. 15, 47 l.). Rodina 1761–1773 MIMO faru Budeč (žádné děti
   ve faře), ≈1774 zpět v Radkovicích (Vavřinec * 4. 8. 1774). Syn Tomáš (* ≈1764, voják, × 1792 Radkovice čp. 29) – Šimonův
   vrstevník bez křtu ve faře – pravděpodobný bratr. Odhad: Matěj st. otcem ≈ 50 %.

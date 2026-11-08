@@ -1,19 +1,30 @@
 {
  "nazev": "Rodokmen Ferdanových",
- "popis": "",
+ "popis": "Ferdanové z Radkovic, Rabštejna a Domamile – předci doložení v matrikách od 18. století.",
  "zapati": "Dohledáno v digitalizovaných matrikách státních oblastních archivů",
- "kontakt": {"jmeno": "", "email": ""},
+ "kontakt": {
+  "jmeno": "",
+  "email": ""
+ },
  "prihlaseni": {
   "uvod": "Tenhle web je jen pro rodinu a příbuzné.",
   "otazka": "",
   "odpoved": ""
  },
  "uvod": {
-  "nadpis": "",
-  "odstavce": [],
+  "nadpis": "Odkud jsme přišli",
+  "odstavce": [
+   "Nejstarší doložený předek rodu je krejčí Šimon Ferdan (≈1771–1839). Roku 1793 se oženil v Domamili, pár let žil v nově založené osadě Rabštejn u Budče a pak se vrátil do Domamile, kde zemřel.",
+   "Ferdanové žili už v 18. století ve faře Budeč – v Radkovicích a Knínicích. Kdo byl Šimonův otec, zatím hledáme; nejpravděpodobnější je Matěj Ferdan z Radkovic.",
+   "Všechny údaje na webu vycházejí z matričních zápisů – u každé osoby najdete výřez zápisu a jeho přepis."
+  ],
   "foto": "",
   "foto_popis": ""
  },
- "pribeh": {"menu": "", "rod": 8, "tlacitko": ""},
+ "pribeh": {
+  "menu": "Příběh rodu",
+  "rod": 8,
+  "tlacitko": "Přečíst příběh"
+ },
  "zajimavosti_na_uvodu": []
 }
