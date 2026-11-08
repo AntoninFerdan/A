@@ -65,6 +65,12 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   čp. 18, † 1808; Franz Fedra × 1791) – nezaměňovat. Starší Ferdan (otec) v Rabštejně nezemřel. Sňatky Budeč O sn. 2–6
   (1784–1801) bez ženicha Ferdan. DALŠÍ: Budeč O sn. 7–12 (1802–1824) a sňatek Johanna Ferdana (čp. 17); a odkud osadníci Rabštejna přišli
   (Knínice? – syn Vavřince Jan * 1771/1774 = Johann z čp. 17?).
+  ODHAD OTCE ŠIMONA (8. 11. 2026, přehled pro uživatele): Antonín * 1754 25 %, Matěj * 1750 25 %, Vavřinec 10 %, nemanž. po dceři
+  Šebestiána 5 % (→ Šebestián děd ≈ 65 %); Matěj st. Radkovice 15 (≈1731–1778) 15 %, Matěj rychtář Knínice 10 %, jiná rodina 10 %.
+  Argumenty: kmotr Franz (bratr Antonína a Matěje), Šimonův syn se jmenuje Antonín. Uživatel tuší Antonína.
+  HLEDÁNÍ ANTONÍNA (* 1754) – nemohl zmizet: (1) Domamil – index NOZ 1784–1902 (MZA 6297, zemřelí sn. 95–) a Z 1784–1841 (6296) –
+  možná přišel se Šimonem; (2) Budeč N 1784–1812 (2480) – Antonín Ferdan jako otec dalších dětí (Rabštejn, Knínice, Radkovice);
+  (3) Budeč rejstřík Z 1801–1899 (2490 sn. 121–122, pokračování); (4) vojsko (* 1754 → odvod 1771+). Jemnice O 1771–82 bez něj (deník 41).
   ROZPRACOVÁNO (deník 39): rejstřík Z Budeč – Matěj Ferdan † 1778 a 1779 Radkovice (přečíst věk: Z sn. ~191–194), Šebestián
   † 1796 Radkovice 7, Antonín v Z NENÍ (žil dál nebo zemřel jinde). Pak: nemanželské děti (Budeč 2 – oddíly „nemanželské“?
   rejstřík N „F“ sn. 55–56) a sňatky Matěje/Antonína v okolních farách (Jemnice 6400, Kdousov 6431, Dačice, Lomnice).
