@@ -60,7 +60,11 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   * Hypotézy (osoby.py HYPOTEZY): Matěj Ferdan st. ≈ 50 % · jiný Ferdan narozený mimo faru 15 % · Vavřinec 10 % · Anna 5 % · jiná větev 10 %
     · nepříbuzný 10 %. Šebestián jako děd ≈ 50–60 % (sjednotit text v HYPOTEZY). Indicie: Šimon pojmenoval syna Matyáš (1816);
     Tomáš Ferdan (* ≈1764, voják IR 22 Lacy, × 12. 11. 1792 Radkovice čp. 29, svědek Jakub Ferdan, sedlák) = pravděpodobný bratr.
-  * DALŠÍ ONLINE TESTY (síť sourozenců), začít 1 a 3:
+  * NOVĚ (deník 60): Šimonovo první dítě František * 26. 11. 1793 RADKOVICE čp. 38 (kmotr opět Franz Ferdan) → Šimon po svatbě
+    žil v rodné vsi Ferdanů. Tomáš 1792–96 v Radkovicích bez dětí; vdova Veronika v rejstříku Z Budeč 1708–1849 není (asi se
+    znovu vdala); Jakub † 1833 (48 l.) není svědek z 1792. DALŠÍ: sňatky Budeč 1778–1785 – vdova Veronika Ferdanová (nové
+    příjmení → kde žila, zda u ní Šimon vyrůstal); Radkovice N 1797–1803 (Tomášovy děti, pokud se vrátil od pluku).
+  * DALŠÍ ONLINE TESTY (síť sourozenců), testy 1 a 3 částečně hotové:
     1. Kmotři Tomášových dětí (Radkovice 1793–1805, Budeč kniha 3, SOA Třeboň id 2480 – přes Chrome) – jsou kmotry Šimon/Marianna?
     2. Kdo je Jakub Ferdan (svědek 1792), jeho otec a sňatek.
     3. Úmrtí vdovy Veroniky Ferdanové (manž. Matěje st.) – kde a v kolika letech, případně u Šimona (indexy zemřelých Budeč, Domamil).
