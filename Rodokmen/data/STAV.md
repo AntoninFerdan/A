@@ -49,7 +49,7 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 - HOTOVO 8. 11. 2026: sňatek Šimon Ferdan × Marie Anna Wobořilová 11. 2. 1793 (O 6295 sn. 6). Antonín (* 1799) se v Domamili
   NENARODIL (deník 16). Šimonův křest nejasný (deník 17) – věk 20 při sňatku 1793 vs. strom 1764.
 - Šimonův křest v Domamili NENALEZEN (deník 18). DALŠÍ: úmrtí Šimona 18. 5. 1839 (Z Domamil 1784–1841 = detail/6296) – věk
-  a případně původ; Antonínův úmrtní zápis 1832 tamtéž; Antonínův křest 1799 – Rokytnice nad Rokytnou / Rokytná (zjistit faru) nebo Borová; úmrtí Antonína 1832 (Z 6296).
+  a případně původ; Antonínův úmrtní zápis 1832 tamtéž; Antonínův křest 1799 – [VYŘEŠENO: Rabštejn, deník 42] (zjistit faru) nebo Borová; úmrtí Antonína 1832 (Z 6296).
 - HOTOVO 8. 11. 2026: křest Antonína 14. 1. 1799 – fara Budeč (SOA Třeboň, kniha 3, id 2480, sn. 23), Rabštejn u Budče čp. 1,
   rodiče Šimon Ferdan × Marianna Wobořilová. Ferdanové jsou rod z fary Budeč (Knínice, Radkovice, Rabštejn) – deník 20–23.
 - ROZPRACOVÁNO – Šimonův křest a otec: v Budči 1764–1774 (oddíly Budeč, Lomy, Knínice, Radkovice) není. DALŠÍ: zjistit, ke které
@@ -97,7 +97,7 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   v Budči kolem 1765–72 (O, rejstřík sn. 10: 1770 Vavřinec); možnost nemanželského původu (v O 1793 jen „Kateřina z čp. 34“).
   Také úmrtní zápisy Ferdanů v Budči (Z 1784–1824) – kdo zemřel v Rabštejně. SOA Třeboň jen přes Chrome (trebon.py → 403).
 - PŮVODNÍ POZNÁMKA: křest Antonína 14. 1. 1799 – Domamil N 1785–1841 (detail/6291, oddíl Domamil sn. 2–65; 1799 ≈ sn. 12)
-  nebo Rokytná/Rokytnice (tužková pozn.), strom Borová; sňatek Šimon Ferdan × Marianna Wobořil 11. 2. 1793 (O 6295, Domamil sn. 1–31);
+  (vyřešeno: Rabštejn, deník 42), strom Borová; sňatek Šimon Ferdan × Marianna Wobořil 11. 2. 1793 (O 6295, Domamil sn. 1–31);
   křest Šimona 10. 10. 1764 (N 1709–1778 = detail/6289); úmrtí Antonína 5. 9. 1832 (Z 1784–1841 = detail/6296).
 - STARŠÍ ÚKOLY (Ferdanové): křest Augustina 18. 12. 1870 (strom: Velký Pěčín – zjistit faru), sňatek Martina Ferdana × Marie Horálkové
   (v Domamili 1868–70 není → asi fara nevěsty v Pěčíně), křest Martina 11. 11. 1848 Domamil čp. 41 (N Domamil = detail/6292).
