@@ -34,4 +34,10 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
 
 ## Rozpracováno (aktualizovat průběžně)
-- Fáze 1 (rozhovor): známe linii Ferdanů po pradědečka; chybí místa a roky prarodičů, matčina strana.
+- Přímá linie převzata z MyHeritage GEDCOM (97 osob, `dokumenty/strom.ged` – soubor není v gitu, uživatel ho vloží znovu).
+- Práce se přesouvá na počítač uživatele (v cloudu MZA Acta Publica nevydá snímky – HTTP 426).
+- DALŠÍ KROK: Ferdanové v Domamili, MZA Acta Publica. Sňatek Augustin Ferdan × Marianna Kočí 22. 11. 1898:
+  kniha O 1842–1912, https://www.mza.cz/actapublica/matrika/detail/592 (oddíl Domamil = snímky 2–50; 1898 asi kolem sn. 40–45).
+  Ostatní knihy Domamile: hledani_obec?search_by_obec=Domamil (N 1842–1902 = detail/6292, Z 1842–1912 = detail/593).
+- Pak: ověřit sporný sňatek Martina Ferdana (strom: 1898) a jeho křest 11. 11. 1848 Domamil čp. 41 (otec?).
+- České větve (Dubové – Pec pod Čerchovem, Jelínkové – Merklín) jdou přes Porta fontium (`tools/portafontium.py`).
