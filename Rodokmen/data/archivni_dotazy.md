@@ -35,3 +35,11 @@ Tomáš Ferdan (* ≈1764), syn Matěje Ferdana, sedláka z Radkovic (fara Bude�
 Rodina Matěje Ferdana st. (× 1760 Veronika Tůmová z Knínic) žila 1761–1773 mimo faru Budeč; Tomášův ani Šimonův křest tam není.
 - **Vojenský historický archiv Praha / Kriegsarchiv Wien – Grundbuchblätter / Musterlisten IR 22** (cca 1780–1792): Tomáš Ferdan,
   rodiště, otec, rok narození. Kmenové listy uvádějí obec a panství narození – to by ukázalo, kde rodina 1761–73 žila.
+
+## Radkovice u Budče – starší gruntovní kniha a sirotčí knihy (před 1800) – KLÍČOVÝ DOTAZ
+Online (ARON MZA) je jen obnovená pozemková kniha Radkovic 1800/1811–1888 (kn. 9681), kde převody ze 70.–90. let 18. stol. nejsou.
+Žádost na **MZA Brno, fond C 17 Pozemkové knihy / velkostatek Budeč**: starší gruntovní kniha vsi Radkovice (před 1800) a
+**sirotčí kniha (Waisenbuch) panství Budeč 1770–1800**:
+- statek **Radkovice čp. 15** – úmrtí sedláka Matěje Ferdana 1778 (47 l.), vdova Veronika roz. Tůmová; soupis dětí/sirotků
+  (hledáme Tomáše * ≈1764 a ŠIMONA * ≈1772) a komu statek připadl;
+- statek **Radkovice čp. 5** – Šebestián Ferdan († 1796) → syn František (Franz).
