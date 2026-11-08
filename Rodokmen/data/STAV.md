@@ -66,6 +66,10 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
     příjmení → kde žila, zda u ní Šimon vyrůstal); Radkovice N 1797–1803 (Tomášovy děti, pokud se vrátil od pluku).
   * Deník 61 (test 4): Franzovy děti Matěj 1778, Jiří 1780, Jakub 1782 – kmotři z Budíškovic, rodina Matěje st. ani Šimon
     tam nejsou; Jakub * 1782 → svědek „Jakob Ferdan, sedlák“ 1792 je asi špatné čtení (test 2 odpadá).
+  * MATĚJ ST. UZNÁN za Šimonova otce (rozhodnutí uživatele, deník 63). Hledá se MATĚJŮV OTEC (Matěj * ≈1731):
+    Jan Ferdan × Voršila (Knínice, děti 1724–31) – Matěj mezi nimi není (deník 65). NOVÁ STOPA: Jakub FARDONIUS, učitel (rektor)
+    v Budči 1733–1740, × Kateřina – učitel se stěhoval, děti z doby před Budčí v matrice chybí. DALŠÍ: kdy přišel do Budče
+    (obec Budeč 1725–31, Budeč 1 sn. 25–27), jeho úmrtí (Z 1749 Jakub?) a odkud byl.
   * DALŠÍ ONLINE TESTY (síť sourozenců), testy 1 a 3 částečně hotové:
     1. Kmotři Tomášových dětí (Radkovice 1793–1805, Budeč kniha 3, SOA Třeboň id 2480 – přes Chrome) – jsou kmotry Šimon/Marianna?
     2. Kdo je Jakub Ferdan (svědek 1792), jeho otec a sňatek.
