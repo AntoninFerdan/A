@@ -153,6 +153,14 @@ ISSUES = [
 # Hypotézy o původu rodu nad rámec doložené linie (zobrazí se na stránce rodu):
 # dict(rod=8, nadpis="Hypotéza: Novákové z Lhoty", text="…", polozky=[("Jan Novák", "kmotr 1681…")], zaznamy=["klic"])
 HYPOTEZY = [
+ dict(rod=8, nadpis="Hypotéza: Šimon Ferdan pochází z budečských Ferdanů",
+      text="Šimon Ferdan (asi 1771–1839), krejčí a později tesař, se v r. 1793 oženil v Domamili a v r. 1799 žil v Rabštejně u Budče mezi dalšími Ferdany (Johann v čp. 17, kmotr Franz s Kateřinou). Ve faře Budeč žijí Ferdanové od konce 17. století. Jeho křest se ale zatím nenašel v Budči (1742–84), Domamili (1764–78), Jemnici ani Kdousově (1771–73). Věk v matrikách bývá nepřesný, proto hledáme spíš rodiče podle bydliště: kdo z Ferdanů žil v Rabštejně a v Domamili čp. 34, kdo tam zemřel a kdo šel za kmotra Šimonovým dětem.",
+      polozky=[("Matěj Ferdan × Veronika, později Justina", "sňatek Budeč 1760; rychtář v Knínicích 1766–74 – nejpravděpodobnější otec (děti 1761–75)"),
+               ("Vavřinec Ferdan × Marianna (Kypr?)", "sňatek Budeč 1770; řezník v Knínicích, děti Jan 1771, Vavřinec 1772, Jan 1774 – Šimon mezi nimi není"),
+               ("Šebestián Ferdan × Barbora Nová", "sňatek Budeč 1740; Radkovice, syn Matěj 1750 – spíš děd"),
+               ("František (Franz) Ferdan × Kateřina", "sňatek Budeč 1777; kmotr Šimonova syna 1799 – nejspíš Šimonův bratr"),
+               ("Fedra/Ferda v Jemnici a okolí", "Václav × Justina (Jemnice), Martin × Anna (Podolí), Ondřej × Marianna, Josef, Jakub (Louka), Matěj Ferda (Ostojkovice) – možná jiný zápis téhož jména")],
+      zaznamy=["domamil_snatek_simon_ferdan_marie_anna_woborilova_1793", "budec_krest_antonin_ferdan_1799"]),
 ]
 
 # Předek v rodokmenu vícekrát (příbuzní rodiče): {alias: hlavní číslo}, např. {350: 140}

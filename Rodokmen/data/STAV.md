@@ -60,6 +60,10 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   ani Budeč. DALŠÍ MOŽNOSTI: (1) přečíst v O 1793 (MZA 6295 sn. 6) v plném rozlišení slova „Schm… der Katharina aus N° 34“ –
   může tam být místo původu; (2) sousední fary Jemnice, Nová Říše, Dešná, Lomnice u Jemnice, Mysliboř (MZA) kolem 1771–73;
   (3) gruntovní knihy panství Jemnice / Budeč k Domamili čp. 34.
+  NOVÝ POSTUP (8. 11. 2026, přání uživatele): místo hledání křtu po farách hledat RODIČE podle bydliště – hypotézy v osoby.py
+  HYPOTEZY. Pořadí: (1) Budeč Z 1784–1824 – kdo z Ferdanů zemřel v Rabštejně (věk → otec/matka); (2) Domamil N/Z 1784–99, čp. 34 –
+  kdo tam bydlel před Šimonem, kmotři jeho dětí 1793–98; (3) Budeč O 1760 Matěj Ferdan × Veronika – jejich děti 1761–65 a 1775–80
+  (věk Šimona může být posunutý). Kdousov 1771–73 prošlý (deník 31) – bez výsledku.
   CELÁ fara Jemnice 1771–73 prošlá (deník 29–30) – Šimon nikde; Fedrové/Ferdové v Jemnici, Podolí, Louce, Ostojkovicích.
   Další kandidáti: Mysliboř (v MZA pod Telčí? ověřit), Lomnice, Dešná, Staré Hobzí, Slavonice; nebo jiný přepis jména.
   Jemnice město + Podolí 1771–73 prošlé (deník 29) – Šimon ne, ale rodiny FEDRA (Václav × Justina, Martin × Anna). Zbývají
