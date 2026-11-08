@@ -60,6 +60,8 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   ani Budeč. DALŠÍ MOŽNOSTI: (1) přečíst v O 1793 (MZA 6295 sn. 6) v plném rozlišení slova „Schm… der Katharina aus N° 34“ –
   může tam být místo původu; (2) sousední fary Jemnice, Nová Říše, Dešná, Lomnice u Jemnice, Mysliboř (MZA) kolem 1771–73;
   (3) gruntovní knihy panství Jemnice / Budeč k Domamili čp. 34.
+  CELÁ fara Jemnice 1771–73 prošlá (deník 29–30) – Šimon nikde; Fedrové/Ferdové v Jemnici, Podolí, Louce, Ostojkovicích.
+  Další kandidáti: Mysliboř (v MZA pod Telčí? ověřit), Lomnice, Dešná, Staré Hobzí, Slavonice; nebo jiný přepis jména.
   Jemnice město + Podolí 1771–73 prošlé (deník 29) – Šimon ne, ale rodiny FEDRA (Václav × Justina, Martin × Anna). Zbývají
   ostatní oddíly knihy MZA 6400 (Pálovice, Ostojkovice, Chotěbudice, Třebětice, Louka) a fary Mysliboř, Nová Říše (1778+).
   Kniha Budeč 2 prošla celá (deník 25) – Šimon jako Ferdan nikde; nedopsaný křest „Simon“ 27. 10. 1765 bez rodičů. Zbývá:
