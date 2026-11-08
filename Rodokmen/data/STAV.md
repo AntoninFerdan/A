@@ -60,6 +60,11 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   ani Budeč. DALŠÍ MOŽNOSTI: (1) přečíst v O 1793 (MZA 6295 sn. 6) v plném rozlišení slova „Schm… der Katharina aus N° 34“ –
   může tam být místo původu; (2) sousední fary Jemnice, Nová Říše, Dešná, Lomnice u Jemnice, Mysliboř (MZA) kolem 1771–73;
   (3) gruntovní knihy panství Jemnice / Budeč k Domamili čp. 34.
+  VÝSLEDEK úmrtí Rabštejn (deník 32): Šimon v Rabštejně čp. 1 už 1797; vedle něj Jiří Ferdan (* ≈1768, dominikalista čp. 18,
+  † 1808), Jiří Ferdan (* ≈1773, sedlák čp. 20, † 1801), Johann Ferdan (čp. 17). Starší Ferdan (otec) tam nezemřel → rodina
+  přišla do Rabštejna při parcelaci dvora (raabizace, asi 1785–90). DALŠÍ: oddací zápisy těchto bratrů v Budeč O 1784–1824
+  (id 2484; 1797–99 = sn. 5, 1800–01 = sn. 6, 1804–06 = sn. 8) – mohou uvést otce a původ; a odkud osadníci Rabštejna přišli
+  (Knínice? – syn Vavřince Jan * 1771/1774 = Johann z čp. 17?).
   NOVÝ POSTUP (8. 11. 2026, přání uživatele): místo hledání křtu po farách hledat RODIČE podle bydliště – hypotézy v osoby.py
   HYPOTEZY. Pořadí: (1) Budeč Z 1784–1824 – kdo z Ferdanů zemřel v Rabštejně (věk → otec/matka); (2) Domamil N/Z 1784–99, čp. 34 –
   kdo tam bydlel před Šimonem, kmotři jeho dětí 1793–98; (3) Budeč O 1760 Matěj Ferdan × Veronika – jejich děti 1761–65 a 1775–80
