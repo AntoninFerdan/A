@@ -56,8 +56,10 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   faře patřila Borová / dvůr Rabštejn před 1784 (Budeč NOZ 1742–84 je nemá) – na portálu SOA Třeboň „Vyhledávání“ → lokalita;
   kandidáti na otce: Matěj Ferdan × Justina (Knínice), Vavřinec Ferdan × Marianna (Knínice, řezník), Šebestián (Radkovice).
   8. 11. 2026 (deník 24): Borová = Rabštejn, část obce Budeč → patřila k faře Budeč; Šimon 1764–1778 ve všech oddílech nenalezen.
-  NEJBLIŽŠÍ KROK (deník 26): Domamil N 1709–1778 (MZA 6289) sn. 106–117 (1773–78) a NOZ 1778–84 (6290) – hledat Šimona,
-  zvl. nemanželského syna Kateřiny (Ferdanové?) z čp. 34; v Budči rejstřík Kateřina Ferdan * 1756 a 1763 Knínice.
+  Domamil 1764–1778 prošlý celý (deník 18, 27) – Šimon tam NENÍ, ani v Budči 1742–84. Šimon se tedy nenarodil ve faře Domamil
+  ani Budeč. DALŠÍ MOŽNOSTI: (1) přečíst v O 1793 (MZA 6295 sn. 6) v plném rozlišení slova „Schm… der Katharina aus N° 34“ –
+  může tam být místo původu; (2) sousední fary Jemnice, Nová Říše, Dešná, Lomnice u Jemnice, Mysliboř (MZA) kolem 1771–73;
+  (3) gruntovní knihy panství Jemnice / Budeč k Domamili čp. 34.
   Kniha Budeč 2 prošla celá (deník 25) – Šimon jako Ferdan nikde; nedopsaný křest „Simon“ 27. 10. 1765 bez rodičů. Zbývá:
   matrika zemřelých Budeč (Ferdanové 1770–1800 – kdo z nich je Šimonův otec), sousední fary (Nová Říše, Jemnice, Dešná); sňatky Ferdanů
   v Budči kolem 1765–72 (O, rejstřík sn. 10: 1770 Vavřinec); možnost nemanželského původu (v O 1793 jen „Kateřina z čp. 34“).
