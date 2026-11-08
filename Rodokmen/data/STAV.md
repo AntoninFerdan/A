@@ -65,6 +65,11 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   čp. 18, † 1808; Franz Fedra × 1791) – nezaměňovat. Starší Ferdan (otec) v Rabštejně nezemřel. Sňatky Budeč O sn. 2–6
   (1784–1801) bez ženicha Ferdan. DALŠÍ: Budeč O sn. 7–12 (1802–1824) a sňatek Johanna Ferdana (čp. 17); a odkud osadníci Rabštejna přišli
   (Knínice? – syn Vavřince Jan * 1771/1774 = Johann z čp. 17?).
+  STAV 8. 11. 2026 (deník 37–38): Šebestiánovi synové – Vavřinec (× 18. 11. 1770, řezník Knínice, děti Jan 1771, Vavřinec 1772,
+  Jan 1774, Tomáš 1775, Jan 1777), Matěj * 1750 a Antonín * 1754 (v Budči se neženili, děti 1771–74 nemají), Franz * 1756.
+  Šimon v Knínicích ani Radkovicích 1770–1774 NENÍ. Možnosti: (a) Šimon nemanželský syn některé Šebestiánovy dcery (Marie Anna
+  * 1748, Anna * 1752) – hledat seznam nemanželských dětí fary Budeč; (b) Matěj nebo Antonín se ženili jinde (Jemnice, Kdousov,
+  Lomnice, Dačice); (c) věk Šimona chybný – zkusit 1765–70 a 1775–80 ve stejných oddílech; (d) úmrtí Matěje a Antonína (Z Budeč).
   DŮLEŽITÉ (deník 36): Franz Ferdan (kmotr 1799) = * 31. 1. 1756 Radkovice, syn Šebestiána Ferdana × Barbory (Radkovice čp. 5),
   × 1777 Kateřina Virglová. Sourozenci: Marie Anna 1748, Matěj 1750, Anna 1752, Antonín František 1754, Anna Marie 1759(?).
   → Šebestián je nejspíš Šimonův DĚD; otec asi Matěj (* 1750) nebo Antonín (* 1754). DALŠÍ: sňatky Matěje a Antonína Ferdana
