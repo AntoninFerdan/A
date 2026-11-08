@@ -118,5 +118,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "budec_krest_antonin_ferdan_1799": {
+  "boxes": [
+   [
+    0.0,
+    0.33,
+    1.0,
+    0.66
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }
