@@ -17,3 +17,4 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - Babička (č. 5) je podle stromu Marie Pelechová * 1944 (v chatu jen „Marie Ferdanová“).
 - Prababička Jana (č. 7) je ve stromu „Jana Řiháčková“; podle jejích rodičů (Jan Duba, Magdalena Jíchová) nejspíš rozená Dubová.
 - Ve stromu je u Marianny Kočí odkaz na Acta Publica (MZA, kniha 6336, strana 61) – výchozí bod pro Domamil.
+- Upřesnění od Antonína (chat 8. 11. 2026): matka narozena 1964; dědeček Antonín (* 1942) žije, babička Marie (* 1944) zemřela; o Hedvice Hamzové neví; Pavel Ferdan (autor stromu „Ferdan Web Site“) je příbuzný → jeho údaje = `fam`.
