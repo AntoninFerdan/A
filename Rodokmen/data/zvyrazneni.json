@@ -154,5 +154,29 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "budec_umrti_bartolomej_ferdan_1721": {
+  "boxes": [
+   [
+    0.35,
+    0.81,
+    1.0,
+    0.9
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "budec_krest_matous_ferdan_1711": {
+  "boxes": [
+   [
+    0.15,
+    0.82,
+    1.0,
+    0.97
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }
